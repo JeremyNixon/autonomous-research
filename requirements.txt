@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+sqlalchemy
+flask-security
+flask-wtf
+openai
+twilio
+numpy
+codeinterpreterapi
+asyncio
